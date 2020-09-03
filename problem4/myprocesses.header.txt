@@ -1,0 +1,6 @@
+# My processes
+root     265910   2718  0 18:23 ?        00:00:00 sshd: lilixu [priv]
+lilixu   265930 265910  0 18:23 ?        00:00:01 sshd: lilixu@pts/1
+lilixu   265933 265930  0 18:23 pts/1    00:00:00 -bash
+lilixu   274610 265933  0 20:21 pts/1    00:00:00 ps -ef
+lilixu   274611 265933  0 20:21 pts/1    00:00:00 grep --color=auto lilixu
